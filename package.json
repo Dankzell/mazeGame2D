@@ -10,6 +10,18 @@
   },
   "devDependencies": {
     "typescript": "^5.2.2",
-    "vite": "^5.3.4"
-  }
+    "vite": "^5.3.5"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dankzell/mazeGame2D.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dankzell/mazeGame2D/issues"
+  },
+  "homepage": "https://github.com/Dankzell/mazeGame2D#readme",
+  "description": ""
 }
